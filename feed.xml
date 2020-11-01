@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Papers We Love</title>
+  <subtitle>A repository of academic computer science research papers and a community who loves reading them.</subtitle>
+  <id>http://papers-we-love.github.io/</id>
+  <link href="http://papers-we-love.github.io/"/>
+  <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
+  <updated>2020-10-31T20:00:00-04:00</updated>
+  <author>
+    <name>Papers We Love</name>
+  </author>
+  <entry>
+    <title>November Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2020/news/november-meetups/"/>
+    <id>http://papers-we-love.github.io/2020/news/november-meetups/</id>
+    <published>2020-10-31T20:00:00-04:00</published>
+    <updated>2020-11-01T08:05:27-05:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for November across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 11/5&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/rbfqfrybcpbhb/"&gt;PWL #54: TBD&lt;/a&gt;
+   &lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>October Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2020/news/october-meetups/"/>
+    <id>http://papers-we-love.github.io/2020/news/october-meetups/</id>
+    <published>2020-09-30T20:00:00-04:00</published>
+    <updated>2020-10-31T22:05:27-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for October across a number of our chapters:
+   &lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>September Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2020/news/september-meetups/"/>
+    <id>http://papers-we-love.github.io/2020/news/september-meetups/</id>
+    <published>2020-08-31T20:00:00-04:00</published>
+    <updated>2020-09-30T22:05:22-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for September across a number of our chapters:
+   &lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>August Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2020/news/august-meetups/"/>
+    <id>http://papers-we-love.github.io/2020/news/august-meetups/</id>
+    <published>2020-07-31T20:00:00-04:00</published>
+    <updated>2020-08-31T22:05:21-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for August across a number of our chapters:
+   &lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>July Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2020/news/july-meetups/"/>
+    <id>http://papers-we-love.github.io/2020/news/july-meetups/</id>
+    <published>2020-06-30T20:00:00-04:00</published>
+    <updated>2020-07-31T22:05:27-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for July across a number of our chapters:
+   &lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>June Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2020/news/june-meetups/"/>
+    <id>http://papers-we-love.github.io/2020/news/june-meetups/</id>
+    <published>2020-05-31T20:00:00-04:00</published>
+    <updated>2020-06-30T22:05:28-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for June across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 6/4&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/rbfqfrybcjbgb/"&gt;PWL #62: Racial Equity in Algorithmic Criminal Justice&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Diego 6/4&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-San-Diego/events/pmgxbqybcjbgb/"&gt;TBA&lt;/a&gt;
+   &lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+</feed>
